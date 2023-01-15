@@ -34,6 +34,7 @@ header{
 }
 .bg-image{
 	background-image:url(table_20230115.jpg);
+	background-size: cover;
 	height:1212px;
 	position:relative;
 
